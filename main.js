@@ -4,7 +4,7 @@ const cardsList = [
   //Each Card and all of its attributes
   //"Anonymous" 4 Chan User Echo
   {
-    Image: "Images/Start/“Anonymous” 4 Chan User Echo.png",
+    Image: "Images/Start/“Anonymous” 4 Chan User Echo.jpg",
     Type: "Start",
     Name: "\"Anonymous\" 4Chan User Echo",
     Gender: "Femme",
@@ -20,7 +20,7 @@ const cardsList = [
   },
   //"Writer Germ"
   {
-    Image: "Images/Start/“Writer” Germ.png",
+    Image: "Images/Start/“Writer” Germ.jpg",
     Type:"Start",
     Name: "\"Writer\" Germ",
     Gender: "Masc",
@@ -36,7 +36,7 @@ const cardsList = [
   },
   //Cutie Mark Crusaders: Fanfic Authors!
   {
-    Image: "Images/Start/Cutie Mark Crusaders_  Fanfic Authors!.png",
+    Image: "Images/Start/Cutie Mark Crusaders_  Fanfic Authors!.jpg",
     Type: "Start",
     Name: "Cutie Mark Crusaders: Fanfic Authors!",
     Gender: "Femme",
@@ -53,7 +53,7 @@ const cardsList = [
   },
   //Dizzy Frizzy, Patron Saint of Shippers
   {
-    Image: "Images/Start/Dizzy Frizzy, Patron Saint of Shippers.png",
+    Image: "Images/Start/Dizzy Frizzy, Patron Saint of Shippers.jpg",
     Type: "Start",
     Name: "Dizzy Frizzy, Patron Saint of Shippers",
     Gender: "Femme",
@@ -69,7 +69,7 @@ const cardsList = [
   },
   //Fanfic Author Discord
   {
-    Image: "Images/Start/Fanfic Author Discord.png",
+    Image: "Images/Start/Fanfic Author Discord.jpg",
     Type: "Start",
     Name: "Fanfic Author Discord",
     Gender: "Masc",
@@ -85,7 +85,7 @@ const cardsList = [
   },
   //Fanfic Author FIMFiction
   {
-    Image: "Images/Start/Fanfic Author FIMFiction.png",
+    Image: "Images/Start/Fanfic Author FIMFiction.jpg",
     Type: "Start",
     Name: "Fanfic Author FIMFiction",
     Gender: "Masc, Femme, Genderless",
@@ -101,7 +101,7 @@ const cardsList = [
   },
   //Fanfic Author Gabby Gums
   {
-    Image: "Images/Start/Fanfic Author Gabby Gums.png",
+    Image: "Images/Start/Fanfic Author Gabby Gums.jpg",
     Type: "Start",
     Name: "Fanfic Author Gabby Gums",
     Gender: "Femme",
@@ -117,7 +117,7 @@ const cardsList = [
   },
   //Fanfic Author Twilight
   {
-    Image: "Images/Start/Fanfic Author Twilight.png",
+    Image: "Images/Start/Fanfic Author Twilight.jpg",
     Type: "Start",
     Name: "Fanfic Author Twilight",
     Gender: "Femme",
@@ -133,7 +133,7 @@ const cardsList = [
   },
   //Fanfic Detective Rarity
   {
-    Image: "Images/Start/Fanfic Detective Rarity.png",
+    Image: "Images/Start/Fanfic Detective Rarity.jpg",
     Type: "Start",
     Name: "Fanfic Detective Rarity",
     Gender: "Femme",
@@ -149,7 +149,7 @@ const cardsList = [
   },
   //Fanfic Editor Starlight
   {
-    Image: "Images/Start/Fanfic Editor Starlight.png",
+    Image: "Images/Start/Fanfic Editor Starlight.jpg",
     Type: "Start",
     Name: "Fanfic Editor Starlight",
     Gender: "Femme",
@@ -165,7 +165,7 @@ const cardsList = [
   },
   //Future Soarin, Alicorn of Spacetime
   {
-    Image: "Images/Start/Future Soarin, Alicorn of Spacetime.png",
+    Image: "Images/Start/Future Soarin, Alicorn of Spacetime.jpg",
     Type: "Start",
     Name: "Future Soarin, Alicorn of Spacetime",
     Gender: "Masc",
@@ -181,7 +181,7 @@ const cardsList = [
   },
   //Ghostwriter Starlight
   {
-    Image: "Images/Start/Ghostwriter Starlight.png",
+    Image: "Images/Start/Ghostwriter Starlight.jpg",
     Type: "Start",
     Name: "Ghostwriter Starlight",
     Gender: "Femme",
@@ -197,7 +197,7 @@ const cardsList = [
   },
   //Grand Creator Fausticorn
   {
-    Image: "Images/Start/Grand Creator Fausticorn.png",
+    Image: "Images/Start/Grand Creator Fausticorn.jpg",
     Type: "Start",
     Name: "Grand Creator Fausticorn",
     Gender: "Femme",
@@ -213,7 +213,7 @@ const cardsList = [
   },
   //KP
   {
-    Image: "Images/Start/KP.png",
+    Image: "Images/Start/KP.jpg",
     Type: "Start",
     Name: "KP",
     Gender: "Femme",
@@ -229,7 +229,7 @@ const cardsList = [
   },
   //Lead Author Twilight
   {
-    Image: "Images/Start/Lead Author Twilight.png",
+    Image: "Images/Start/Lead Author Twilight.jpg",
     Type: "Start",
     Name: "Lead Author Twilight",
     Gender: "Femme",
@@ -245,7 +245,7 @@ const cardsList = [
   },
   //Mix Master Magic
   {
-    Image: "Images/Start/Mix Master Magic.png",
+    Image: "Images/Start/Mix Master Magic.jpg",
     Type: "Start",
     Name: "Mix Master Magic",
     Gender: "Femme",
@@ -261,7 +261,7 @@ const cardsList = [
   },
   //Shipping & Handling
   {
-    Image: "Images/Start/Shipping & Handling.png",
+    Image: "Images/Start/Shipping & Handling.jpg",
     Type: "Start",
     Name: "Shipping & Handling",
     Gender: "Femme",
@@ -277,7 +277,7 @@ const cardsList = [
   },
   //Show Host Graphite Sketch
   {
-    Image: "Images/Start/Show Host Graphite Sketch.png",
+    Image: "Images/Start/Show Host Graphite Sketch.jpg",
     Type: "Start",
     Name: "Show Host Graphite Sketch",
     Gender: "Masc",
