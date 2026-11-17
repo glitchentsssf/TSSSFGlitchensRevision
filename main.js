@@ -315,7 +315,7 @@ const cardsList = [
   //#region Pony - 0-9
   //(None)
   {
-    Image: "Images/Ponies/0-9/___.jpg",
+    Image: "Images/Ponies/0-9/(None).jpg",
     Type: "Pony",
     MultiplePonies:"No / False",
     Name: "(None)",
@@ -961,8 +961,6 @@ const cardsList = [
     Art: "Pixel Prism",
     Link:"https://docs.google.com/document/d/1qvRWtGuBPBBRmH-rW9zpW0VHJLUqBFfTRg0PlqhXbcY/edit?tab=t.9xq66zh35q16"
   },
-
-
   //#endregion
   //#endregion
   /*
@@ -1101,6 +1099,7 @@ for (let i = 0; i < cardsList.length; i++) {
   //Insert the img
   const cardImage = document.createElement("img");
   cardImage.src = card.Image;
+  cardImage.loading = "lazy";
   cardLink.appendChild(cardImage);
 
   //Add the class card-item for styling later
