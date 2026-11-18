@@ -479,7 +479,7 @@ const cardsList = [
     Timeline: "Dystopian Future",
     Keywords: "Flickering Oracle, OC",
     Character: "Aeterna, Flickering Oracle",
-    Power: "Revisionist History (Special): You may copy the power of any non-Changeling Pony card currently on the shipping grid and/or apply the power of any non-Love Poison Ship card currently on the shipping grid. This power cannot be copied.",
+    Power: "Revisionist History (Special): You may copy the power of any non-[Changeling] Pony card currently on the shipping grid and/or apply the power of any non-Love Poison Ship card currently on the shipping grid. This power cannot be copied.",
     Flavor: "She hastily jotted down a few words on the scroll in front of her, causing a terribly confused mare to mysteriously appear before her. She sighed, thoroughly exasperated. \"I can't stand being put on shipping duty, sometimes...\" - Of Ponies and Peril: Operation Parallax",
     Set: "No Holds Barred: Card by Makuru",
     Art: "Pixel Prism",
@@ -529,7 +529,7 @@ const cardsList = [
     Species: "Alicorn",
     Timeline: "(None)",
     Keywords: "Apple, Princess",
-    Character: "Big Mac",
+    Character: "Big Mac / Big Macintosh / Big McIntosh",
     Power: "The Larson Effect (Special): As long as Alicorn Big Mac is on the grid, all other Ponies on the grid become [Alicorns] and gain the Princess keyword, and all Shapeshift powers must copy Alicorn Big Mac even if they normally couldn't.",
     Flavor: "\"I am become Princess, the Devourer of Apples.\" - Runes scratched into the wall of a ruined temple.",
     Set: "2015 Workshop Cards",
@@ -576,7 +576,7 @@ const cardsList = [
     Type: "Pony",
     MultiplePonies:"No / False",
     Name: "Alton",
-    Gender: "Femme",
+    Gender: "Masc",
     Species: "Unicorn",
     Timeline: "(None)",
     Keywords: "OC",
@@ -962,7 +962,325 @@ const cardsList = [
     Link:"https://docs.google.com/document/d/1qvRWtGuBPBBRmH-rW9zpW0VHJLUqBFfTRg0PlqhXbcY/edit?tab=t.9xq66zh35q16"
   },
   //#endregion
+  //#region Pony - B
+  //B.B.B.F.F. Shining Armor
+  {
+    Image: "Images/Ponies/B/B.B.B.F.F. Shining Armor.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "B.B.B.F.F. Shining Armor",
+    Gender: "Masc",
+    Species: "Unicorn (None)",
+    Timeline: "(None)",
+    Keywords: "(None)",
+    Character: "Shining Armor",
+    Power: "Helping Little Sis (Replace): While this card is in your hand, you may discard a Pony card from the grid and play this card in its place.",
+    Flavor: "I'm surrounded by idiots! Nopony's really worthy of my exquisite genius except Shining. And maybe that foalsitter. Surely her name will come to me.... I think it starts with a C. - Twilight's Secret Diary, Volume IV",
+    Set: "Core Deck",
+    Art: "Pixel Prism", 
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.6m1j5jkt3g47"
+  },
+  //Babs Seed, Life of the Party
+  {
+    Image: "Images/Ponies/B/Babs Seed, Life Of The Party.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Babs Seed, Life of the Party",
+    Gender: "Femme",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "Apple, CMC, Uni",
+    Character: "Babs Seed",
+    Power: "Shmoozing (Swap): You may swap 2 Pony cards on the shipping grid.",
+    Flavor: "\"Apple cider,\" Babs slurred with a grin, tilting her mug toward each smiling pony around her in turn, \"is proof that Celestia loves us and wants us to be happy.\" All the ponies cheered! Little did they know what was coming. - Blood Moon",
+    Set: "Ponyville University",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.tzb8avj2fhpd"
+  },
+  //Babs the Barber
+  {
+    Image: "Images/Ponies/B/Babs The Barber.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Babs the Barber",
+    Gender: "Femme",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "Apple, Babs Seed",
+    Character: "Babs Seed",
+    Power: "Just a Bad, Bad Hair Day (Special): You may discard a Pony card that is shipped with Babs the Barber and replace it with a Pony card from the Pony deck or discard pile. That card’s power does not activate. Shuffle the Pony deck afterwards. This power cannot be copied.",
+    Flavor: "\"Don't move. I've got scissors and access to your neck.\" - The Demon Barber of Flank Street",
+    Set: "Made Our Mark",
+    Art: "Arcadian Phoenix",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.6iizwmu3letb"
+  },
+  //Badfic Readers Sly Shuffle & Duster Dawnhorse
+  {
+    Image: "Images/Ponies/B/Badfic Readers Sly Shuffle & Duster Dawnhorse.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Badfic Readers Sly Shuffle & Duster Dawnhorse",
+    Gender: "Masc / Femme",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "Eohippus, OC",
+    Character: "Sly Shuffle (Left: Masc, Earth Pony, OC) / Duster Dawnhorse (Right: Femme, Earth Pony, Eohippus, OC)",
+    Power: "This card counts as 2 Ponies. One [Masc] and one [Femme]. Public Humiliation (Special): Choose any Ship on the shipping grid. A player of your choice must either come up with a short story for that Ship and dramatically narrate it or skip their next turn. This power cannot be copied.",
+    Flavor: "\"Sly Shuffle! I did it! I found the worst fanfiction in all of Equestria!\" The eohippus gleefully shoved a messy stack of freshly printed paper into the stallion's hooves. She tapped her little toes together, watching his lip curl in disgust. \"I know, right?! This will be perfect for the convention! Let's hope this 'Twilight Sparkle' never finds out.\" - Through the Fire and Flamers",
+    Set: "Card by Rainbow-Smashed",
+    Art: "Duster Dawnhorse",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.3fmzc1eq2uei"
+  },
+  //Bálor
+  {
+    Image: "Images/Ponies/B/Bálor.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Bálor / Balor",
+    Gender: "Masc",
+    Species: "Unicorn",
+    Timeline: "(None)",
+    Keywords: "Demon, OC, Villain",
+    Character: "Bálor / Balor",
+    Power: "Mine (Special): If Golden Tone is on the grid, Let's Have a Chat (Special): You may swap a Pony card that is shipped with Bálor with the Start card.",
+    Flavor: "Bálor is known as the demon king of Tartarus. He will always try to get on your good side unless you cross him, and he won't hesitate to eliminate you in a snap. - The Dark Prince",
+    Set: "Card by Raribot",
+    Art: "Fur-What-Loo",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.aid70lz3yrdu"
+  },
+  //Baseball Slugger Moonshot
+  {
+    Image: "Images/Ponies/B/Baseball Slugger Moonshot.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Baseball Slugger Moonshot",
+    Gender: "Masc",
+    Species: "Pegasus" ,
+    Timeline: "(None)",
+    Keywords: "Batpony, OC",
+    Character: "Moonshot",
+    Power: "Out of the Park (New Goal): You may discard 1 active Goal and draw 1 new Goal to replace it.",
+    Flavor: "\"Hey, batter, batter! Swing, batter, batter!\" - Up to Bat",
+    Set: "Nocturnal Adventures",
+    Art: "Koonzy",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.52wrauligobn"
+  },
+  //Batmare
+  {
+    Image: "Images/Ponies/B/Batmare.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Batmare",
+    Gender: "Femme",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "Applejack, Batpony, Hero",
+    Character: "Applejack",
+    Power: "MY PARENTS ARE DEEEEEEAD! (Special): Discard all Pony cards with the Elder keyword from the shipping grid. This power cannot be copied.",
+    Flavor: "\"Holy Apples, Batmare!\" Robinbloom cried, dangling precariously over the perch of the sizzling acid pit. The General stood menacingly above it all, laughing menacingly at Batmare's sidekick's plight. \"How do you feel, you ugly vigilante?\" the villain growled. \"How do you feel watching another of your loved ones about to die?\" Batmare said nothing. She'd felt this pain before. But she would not let it happen again... - The New Batmare Comics #42",
+    Set: "2015 Workshop Cards",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.wl54c9mdqaod"
+  },
+  //Belfry
+  {
+    Image: "Images/Ponies/B/Belfry.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Belfry",
+    Gender: "Femme",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "OC",
+    Character: "Belfry",
+    Power: "Lactose Intolerant (Special): You may swap a Pony card with the Object keyword with another Pony card on the shipping grid.",
+    Flavor: "She couldn't believe Domino had fallen for such a cheesy pickup line. Something had to be done about this saucy wretch. No one steals her marefriend and gets away with it! - Please Notice Me SenFry",
+    Set: "WEB CARD",
+    Art: "Arcadian Phoenix",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.ba0eqrqh8k3g"
+  },
+  //Berry Punch
+  {
+    Image: "Images/Ponies/B/Berry Punch.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Berry Punch",
+    Gender: "Femme",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "(None)",
+    Character: "Berry Punch" ,
+    Power: "Black Out (Replace): While this card is in your hand, you may discard a Pony card from the grid and play this card in its place.",
+    Flavor: "Twilight backed up against the wall a little harder, as though it might grow a door. \"Mmmaybe I should try again when you're, um, less indisposed?\" Berry only chuckled. \"Filly, I do EVERYTHING indisposed.\" - Coyote Ugly",
+    Set: "Core Deck",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.9htyy8qxlu4s"
+  },
+  //Best Foalsitter Cadance
+  {
+    Image: "Images/Ponies/B/Best Foalsitter Cadance.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Best Foalsitter Cadance",
+    Gender: "Femme",
+    Species: "Alicorn" ,
+    Timeline: "(None)",
+    Keywords: "Princess",
+    Character: "Cadance",
+    Power: "The Other Sitter Cancelled (Swap): You may swap 2 Pony cards on the shipping grid.",
+    Flavor: "I should mention that I've now observed the foalsitter and my brother attempting to ingest one another's tongues. If this is adulthood, it's really gross! - Twilight's Secret Diary, Volume V",
+    Set: "Core Set",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.8fap15a3emg5"
+  },
+  //Beverly Hooves
+  {
+    Image: "Images/Ponies/B/Beverly Hooves.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Beverly Hooves",
+    Gender: "Femme",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "Celebrity, OC",
+    Character: "Beverly Hooves",
+    Power: "Center of Attention (Special): As long as Beverly Hooves is on the grid, all new Ship cards must be played off of her if able. This includes playing a Ship card between her and an adjacent Pony card.",
+    Flavor: "\"Paradise,\" Beverly drawled in her expensive-sounding accent, \"is wherever I am!\" The throng of fans around her seemed to agree. - Con Tales",
+    Set: "Equestria LA Official Promos",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.z9pkdvt1kq1a"
+  },
+  //Big Mac
+  {
+    Image: "Images/Ponies/B/Big Mac.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Big Mac / Big Macintosh / Big McIntosh",
+    Gender: "Masc",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "Apple",
+    Character: "Big Mac",
+    Power: "Bumper Crop (Draw): You may draw 1 card from the Ship or Pony deck.",
+    Flavor: "As he looked into her eyes, he knew that he would love her deeply for all time, to the ends of the known universe. He could swim in those eyes for hours, bathe in their luminescence. His heart swelled, thoughts skittering across his mind for an eternal, soul-warming moment. \"Eeyup,\" he said. - Flutter On My Wayward Foal",
+    Set: "Core Deck",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.4bc0qrmjb3sa"
+  },
+  //Big Sister Nightwatch
+  {
+    Image: "Images/Ponies/B/Big Sister Nightwatch.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Big Sister Nightwatch" ,
+    Gender: "Femme",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "Batpony, OC",
+    Character: "Nightwatch",
+    Power: "No Personal Space (Replace): While this card is in your hand, you may discard a Pony card from the grid and play this card in its place.",
+    Flavor: "\"I want to ravage you.\" - No Time for Small Talk",
+    Set: "Nocturnal Adventures",
+    Art: "Art by Koonzy",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.ibkl6sy4vua6"
+  },
+  //Bizarre Song
+  {
+    Image: "Images/Ponies/B/Bizarre Song.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Bizarre Song" ,
+    Gender: "Masc",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "OC",
+    Character: "Bizarre Song ",
+    Power: "The Antihero (New Goal): You may discard 1 active Goal and draw 1 new Goal to replace it.",
+    Flavor: "Blood dripped from the bat in his mouth. His eyes looked dangerous, but I couldn't stop looking at them. - The Antihero",
+    Set: "Card by Summerium",
+    Art: "Artmael Sverr",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.9k1300agortj"
+  },
+  //Black Widow Rarity
+  {
+    Image: "Images/Ponies/B/Black Widow Rarity.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Black Widow Rarity",
+    Gender: "Femme",
+    Species: "Unicorn",
+    Timeline: "(None)",
+    Keywords: "Mane 6",
+    Character: "Rarity",
+    Power: "Malicious Machinations (New Goal): You may discard 1 active Goal and draw 1 new Goal to replace it.",
+    Flavor: "She was black as silk and sharp as the nighttime wind. The stallions all had eyes for her, but she only had eyes for one thing: danger. - Casaflanka",
+    Set: "Core Deck",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.bbgr64v8bzns"
+  },
+  //Blackjack, Security Mare
+  {
+    Image: "Images/Ponies/B/Blackjack, Security Mare.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Blackjack, Security Mare",
+    Gender: "Femme",
+    Species: "Unicorn",
+    Timeline: "Dystopian Future",
+    Keywords: "OC, Wastelander",
+    Character: "Blackjack",
+    Power: "Bounty Hunted (Special): You may play the top card of the Pony deck off of Blackjack, Security Mare using the top card of the Ship deck.",
+    Flavor: "Was it her natural charm, her rugged good looks, or her irresistible sensuality that drew all the ponies towards her? Then again, it also might be the price on her head. - FoE: Expanded Horizons",
+    Set: "Card by Hobbes_maxwell",
+    Art: "Boiler3",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.f9g8voxldqy5"
+  },
+  //Blazed Tree Hugger
+  {
+    Image: "Images/Ponies/B/Blazed Tree Hugger.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Blazed Tree Hugger" ,
+    Gender: "Femme",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "(None)",
+    Character: "Tree Hugger",
+    Power: "Munchies (Draw): You may draw 1 card from the Ship or Pony deck.",
+    Flavor: "\"Whoa, check out my hoof, Flutters,\" said Tree Hugger, her plate empty after her fourth \"special\" brownie. \"Isn't it just... righteous? We have four of them to touch the Mother Earth and feel her fluid aura and vibrations.\" Fluttershy stammered a bit as she put a lid on the pan of chocolate leftovers. \"M-Maybe we should hold off on these...\" Brownies did make her a bit paranoid. - Twenty Past Four",
+    Set: "Card by FaeDeeDraws",
+    Art: "FaeDeeDraws",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.lpo6cr1xl2sr"
+  },
+  //Blazin' Hot Wild Fire
+  {
+    Image: "Images/Ponies/B/Blazin' Hot Wild Fire.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Blazin' Hot Wild Fire" ,
+    Gender: "Femme",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "OC",
+    Character: "Wild Fire",
+    Power: "Trailblazer (Special): Discard the 3 Pony cards in the same row as Blazin' Hot Wild Fire that are closest to her left.",
+    Flavor: "She could feel the G's pulling at her cheeks, the wind ripping at her hair, the trail of fire roasting her opponents! She thought she should feel bad, but all she could feel was the sheer exhilaration of LOVE! - Wild Fire's Wild Ride",
+    Set: "2014 Con Exclusives",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.5yheu5x6k11r"
+  },
+
+
+
+
+
+
   //#endregion
+  
+  //#endregion
+
+
+
   /*
   //Template
   {
@@ -974,7 +1292,7 @@ const cardsList = [
   },
   */
   
-
+  /*
   {
     Image: "Images/Ponies/Black Widow Rarity.png",
     Type: "Pony",
@@ -1062,6 +1380,7 @@ const cardsList = [
     Set: "Core Deck",
     Art: "Pixel Prism "
   }
+    */
   
 ];
 
@@ -1076,7 +1395,7 @@ numerator.textContent = cardsList.length;
 let denominator = document.getElementById("card-percent-denominator");
 denominator.textContent = 1023;
 let percentage = document.getElementById("percent-done");
-percentage.textContent = Math.round((cardsList.length / 1023) * 100) / 100;
+percentage.textContent = ((cardsList.length / 1023)*100).toFixed(2);
 
 //Create the cardsContainer div
 const cardsContainer = document.getElementById("cards-container");
@@ -1253,10 +1572,12 @@ nameInput.addEventListener("keypress", function(event){
                 //Excludes Ships and Goals becuase they don't have any Ponies
                 if((cardsList[i].Type.toLowerCase() == "pony" || cardsList[i].Type.toLowerCase() == "start") && (orSearchTerms[j].toLowerCase().includes("character:") || orSearchTerms[j].toLowerCase().includes("char:"))){
                   if(orSearchTerms[j].toLowerCase().includes("character:")){
-                    newSearchTerm = orSearchTerms[j].substring(orSearchTerms[j].indexOf("character:") + 9);
+                    newSearchTerm = orSearchTerms[j].substring(orSearchTerms[j].indexOf("character:") + 10);
+                    console.log(newSearchTerm);
                   }
                   else if(orSearchTerms[j].toLowerCase().includes("char:")){
                     newSearchTerm = orSearchTerms[j].substring(orSearchTerms[j].indexOf("char:") + 5);
+                    console.log(newSearchTerm);
                   }
                   if(cardsList[i].Character.toLowerCase().includes(newSearchTerm)){
                     foundCriteria = true;
