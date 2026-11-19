@@ -1712,7 +1712,7 @@ const cardsList = [
   },
   //Butterscotch
   {
-    Image: "",
+    Image: "Images/Ponies/B/Butterscotch.jpg",
     Type: "Pony",
     MultiplePonies:"No / False",
     Name: "Butterscotch" ,
@@ -1731,9 +1731,82 @@ const cardsList = [
 
 
   //#endregion
-  
-  
-  
+  //#region Pony - C
+  //Cadance, Scourge of Changelings
+  {
+    Image: "Images/Ponies/C/Cadance, Scourge of Changelings.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Cadance, Scourge of Changelings",
+    Gender: "Femme",
+    Species: "Alicorn",
+    Timeline: "(None)",
+    Keywords: "Princess, Villain",
+    Character: "Cadance",
+    Power: "Revenge-Fueled Rampage (Special): Discard all [Changelings] from the shipping grid. This power cannot be copied.",
+    Flavor: "\"I've done what you could never accomplish. I crushed your kingdom. I tore your hive apart. I didn't even need magic to do it. How does it feel, Your Highness? To lose everything?\" - My Little Pony The Movie: Shattered Harmony ",
+    Set: "Tamersverse" ,
+    Art: "Tamers12345",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.g3p0j6znxd7"
+  },
+  //Calamity
+  {
+    Image: "Images/Ponies/C/Calamity.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Calamity" ,
+    Gender: "Masc",
+    Species: "Pegasus",
+    Timeline: "Dystopian Future",
+    Keywords: "Dashite, OC, Wastelander",
+    Character: "Calamity" ,
+    Power: "Deadshot (Replace): While this card is in your hand, you may discard a Pony card from the grid and play this card in its place.",
+    Flavor: "\"Yee-HAW!\" Calamity cried out triumphantly as he fluttered back to the rest of us. \"Now that's how ya do it Dashite-style!\" - Fallout: Equestria, Ch. 19" ,
+    Set: "Card by DJ Jack" ,
+    Art: "Vector-Brony",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.qrui70gmm2id"
+  },
+  //Campus Reporter Featherweight
+  {
+    Image: "Images/Ponies/C/Campus Reporter Featherweight.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Campus Reporter Featherweight",
+    Gender: "Masc",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "PCC",
+    Character: "Featherweight",
+    Power: "Blackmail! (Replace): While this card is in your hand, you may discard a Pony card from the grid and play this card in its place.",
+    Flavor: "Featherweight sighed happily. He would deliver the photos to the dean, and then she would make him a deputy in the secret police force. He could almost taste the fear. - Dark Marks",
+    Set: "Ponyville University",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.8glf8fg2g4jy"
+  },
+  //Template
+  {
+    Image: "",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Candice",
+    Gender: "Femme",
+    Species: "Unicorn, Pegasus",
+    Timeline: "(None)",
+    Keywords: "OC",
+    Character: "Candice",
+    Power: "This card may count as either a [Unicorn] or [Pegasus] for all Goals, Ships, and powers. OTP (Special): Swap Candice with a Pony card that is shipped with Twilight Sparkle. This power also activates when Candice is moved to a new place on the grid by something other than her own power.",
+    Flavor: "\"After Twilight attempted to turn me into a unicorn to save my life and failed, the attempt to turn me into a pegasus worked even though I'm now half and half magical. This started the chain of events that led to love. Perhaps some more testing in that area is in order.\" - Born With Wings or a Horn",
+    Set: "Nocturnal Adventures",
+    Art: "Tiomara",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.uqy5gvhj3ruc"
+  },
+
+
+
+
+
+
+  //#endsection
   //#endregion
   /*
   //Template
