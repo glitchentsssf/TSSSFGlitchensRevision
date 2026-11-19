@@ -1783,9 +1783,9 @@ const cardsList = [
     Art: "Pixel Prism",
     Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.8glf8fg2g4jy"
   },
-  //Template
+  //Candice
   {
-    Image: "",
+    Image: "Images/Ponies/C/Candice.jpg",
     Type: "Pony",
     MultiplePonies:"No / False",
     Name: "Candice",
@@ -1800,8 +1800,294 @@ const cardsList = [
     Art: "Tiomara",
     Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.uqy5gvhj3ruc"
   },
-
-
+  //Candycane Rose
+  {
+    Image: "Images/Ponies/C/Candycane Rose.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Candycane Rose",
+    Gender: "Masc, Femme",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "Draft Horses, OC",
+    Character: "Candycane Rose",
+    Power: "This card may count as either [Masc] or [Femme] for all Goals, Ships, and powers. TikTok Star (Special): Whenever Candycane Rose is swapped on the grid, you may apply the power of a Ship card attached to them.",
+    Flavor: "\"People liking My Little Pony at 10 years old? Imagine! You’ve gotta be at least 20.\" - AnxietyMonstrr Artists Redesign Legendary Brony OCs",
+    Set: "youtube.com/@DraftHorses",
+    Art: "AnxietyMonstrr ",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.3ow4sik1nmny"
+  },
+  //Capper General
+  {
+    Image: "Images/Ponies/C/Capper General.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Capper General",
+    Gender: "Masc",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "Horse News, OC, /mlp/",
+    Character: "Capper General",
+    Power: "Post a Screencap (Special): You may discard a Pony card from the grid and play a Pony card from the discard pile in its place. That card's power does not activate.",
+    Flavor: "\"It is said that if you say his name three times, you can summon him to any thread to do your bidding.\" - Anonymous /mlp/ User",
+    Set: "/mlp/",
+    Art: "Anonymous",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.e93hnh5srd8o"
+  },
+  //Captain Mwai
+  {
+    Image: "Images/Ponies/C/Captain Mwai.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Captain Mwai",
+    Gender: "Masc",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "OC, Zebra, #horsefamous",
+    Character: "Captain Mwai",
+    Power: "Let Loose the Armada (Special): For each of Captain Mwai's sides that does not have a Ship card attached to it, attach the top card of the Ship deck to that side. Then for each exposed Ship card attached to Captain Mwai, play the top card of the Pony deck onto that Ship card. Those cards' powers do not activate.",
+    Flavor: "Mares sighed; stallions swooned. He didn't need planning; he only needed... shipping. - Meeting of the Masters",
+    Set: "No Holds Barred: Card by the Shipfic Crew",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.lh04lk9y267p"
+  },
+  //Captain Spitfire
+  {
+    Image: "Images/Ponies/C/Captain Spitfire.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Captain Spitfire",
+    Gender: "Femme",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "Wonderbolt",
+    Character: "Spitfire",
+    Power: "Shipwrecked (Special): Discard 2 Ship cards from the shipping grid. Flavor: Sea, sun, and stealing! This was the life! Forget about those Wonderbolts; here she could really be herself! She flew over the length of her ship, her pride and joy. From the sails to the cannons, nothing could outmatch her. She stopped on the crow's nest. Looking out, she saw another ship headed directly toward her. “Must be that blasted Twilight. It'll be a cold day in Tartarus before I let her get ahold of me! Battle stations!” - Shiver Me Timbers",
+    Set: "Wonderbolt Nights",
+    Art: "Arcadian Phoenix",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.1nzeojt062bk"
+  },
+  //Captivating Cookie Dough
+  {
+    Image: "Images/Ponies/C/Captivating Cookie Dough.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Captivating Cookie Dough",
+    Gender: "Femme",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "EQA, OC",
+    Character: "Cookie Dough",
+    Power: "Late Night “Studying” (New Goal): You may discard 1 active Goal and draw 1 new Goal to replace it.",
+    Flavor: "As I looked back at the door, I realized he was a brilliant, handsome, all-around perfect colt friend. Then it hit me. “Hey Hun~ I need help with my homework. The subject? Oh ~ just pony anatomy.” - All Nighter",
+    Set: "Equine Academy",
+    Art: "Fleet-Wing & Koonzy",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.wmhvv17ai664"
+  },
+  //Caramel
+  {
+    Image: "Images/Ponies/C/Caramel.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Caramel",
+    Gender: "Masc",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "(None)",
+    Character: "Caramel",
+    Power: "Yet Another Cameo (Swap): You may swap 2 Pony cards on the shipping grid.",
+    Flavor: "His sweet brown mane swept back from his dazzling eyes as the wind fluttered his bangs and his manicured hooves clopped merrily on the cobblestone. Mares swooned; stallions questioned themselves, but no doubt, every eye was on Caramel as he jaunted toward the store. - Caramel Sweets",
+    Set: "Core Deck",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.qnevcqr32zcn"
+  },
+  //Cardcaptor Scootaloo
+  {
+    Image: "Images/Ponies/C/Cardcaptor Scootaloo.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Cardcaptor Scootaloo",
+    Gender: "Femme",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "CMC, Hero",
+    Character: "Scootaloo",
+    Power: "The Fly (Special): While this card is in your hand, if a card would be discarded, you may instead discard this card and put that card into your hand.",
+    Flavor: "\"Yep, that's me. You're probably wondering how I ended up in this situation. It all started...\" - One Fateful Day",
+    Set: "Magical Mares",
+    Art: "BefishProductions",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.7ce72zb1x37u"
+  },
+  //Care Package
+  {
+    Image: "Images/Ponies/C/Care Package.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Care Package",
+    Gender: "Masc",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "(None)",
+    Character: "Care Package",
+    Power: "Delivery (Draw): You may draw 1 card from the Ship or Pony deck.",
+    Flavor: "\"Package for the Apple family. Sign here, please.\" - Twilight Sparkle and Friends Get Stuck in a Porta Potty",
+    Set: "Tamersverse",
+    Art: "Tamers12345",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.q64geut7mo14"
+  },
+  //Care Package, Murderer
+  {
+    Image: "Images/Ponies/C/Care Package, Murderer.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Care Package, Murderer",
+    Gender: "Masc",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "Villain",
+    Character: "Care Package",
+    Power: "Not My First Time (Special): As long as Care Package, Murderer is on the grid, at the end of each player’s turn, that player must discard 2 Pony cards other than Care Package, Murderer from the shipping grid.",
+    Flavor: "\"That's right. I'm white. And a ginger. And I'm gay. The three actual deadliest things a pony can be. All wrapped into a singular PACKAGE.” - Twilight Sparkle and Friends Get Stuck in a Porta Potty",
+    Set: "Tamersverse",
+    Art: "Tamers12345",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.15lqudr66xuj"
+  },
+  //Care Package, Remorseful
+  {
+    Image: "Images/Ponies/C/Care Package, Remorseful.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Care Package, Remorseful",
+    Gender: "Masc",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "Villain",
+    Character: "Care Package",
+    Power: "I Need Him Back (Search): You may search the Ship or Pony discard pile for 1 card of your choice and put it into your hand. If that card is still in your hand at the end of your turn, discard it.",
+    Flavor: "\"The pleasure I get from killing is overwhelming. It blinds me to the consequences until what's done is done.\" - MY LITTLE PONY THE MOVIE: INFECTION",
+    Set: "Tamersverse",
+    Art: "Tamers12345",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.5edn9fqg8otx"
+  },
+  //Cat Burglar Scootaloo
+  {
+    Image: "Images/Ponies/C/Cat Burglar Scootaloo.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Cat Burglar Scootaloo",
+    Gender: "Femme",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "CMC, Villain",
+    Character: "Scootaloo",
+    Power: "Heist (Special): You may swap one of another player’s achieved Goals with an active Goal that is worth the same point value. This power cannot be copied.",
+    Flavor: "Carefully, Scootaloo twisted her lockpicks, sweat beading on her forehead until they fell into place with a satisfying click. “Come to mama,” she whispered with a sly grin. - White Collar Ch. 5: Silenced Bell",
+    Set: "Custom Card for Preston Moore",
+    Art: "Arcadian Phoenix",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.2doxngg7btct"
+  },
+  //Celebrity Silver Spoon
+  {
+    Image: "Images/Ponies/C/Celebrity Silver Spoon.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Celebrity Silver Spoon",
+    Gender: "Femme",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "Celebrity",
+    Character: "Silver Spoon",
+    Power: "Fame and Fortune (Special): You may discard one of your achieved Goals and draw cards from the Ship and/or Pony decks equal to twice that Goal's point value.",
+    Flavor: "She didn't need her looks to feel validated anymore. She was a star! Everypony in Equestria was looking at her now! Everypony except the one who mattered most. “When was it that she stopped looking at me? That silly campaign? Did she ever look at me? Keep it together. Smile for the camera.” Smile? How could she? - Silver Spoon, Tarnished Heart",
+    Set: "Made Our Mark",
+    Art: "Arcadian Phoenix",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.d35ncbkbyan3"
+  },
+  //Celestia, Bane of Equestria
+  {
+    Image: "Images/Ponies/C/Celestia, Bane of Equestria.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Celestia, Bane of Equestria",
+    Gender: "Femme",
+    Species: "Alicorn",
+    Timeline: "Mirror-Universe",
+    Keywords: "Elder, Princess, Villain",
+    Character: "Celestia",
+    Power: "Inevitable Betrayal (New Goal): You may discard 1 active Goal and draw 1 new Goal to replace it.",
+    Flavor: "\"Heh... Where's that pretty lady friend of yours? I wasn't done playing with her when she left.\" - Shattered Reflections, Part 2, Prologue",
+    Set: "Panel of Ponies",
+    Art: "Andy Price",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.1ltxs2zgxhnv"
+  },
+  //Celestia, Racist Ruler
+  {
+    Image: "Images/Ponies/C/Celestia, Racist Ruler.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Celestia, Racist Ruler",
+    Gender: "Femme",
+    Species: "Alicorn",
+    Timeline: "(None)",
+    Keywords: "Elder, Princess, Villain",
+    Character: "Celestia",
+    Power: "Redlining (Special): Rearrange cards on the grid so that all [Earth Ponies] are shipped in a chain on one side of the Start card. Do the same for [Pegasi], [Unicorns], and [Alicorns], with each of them on a different side of the Start card. [Changelings and Non-Ponies are discarded from the grid. This power cannot be copied.",
+    Flavor: "\"Is a bad bitch not allowed to be racist?\" - MY LITTLE PONY: PONIES DO CRIMES",
+    Set: "Tamersverse",
+    Art: "Tamers12345",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.ucbswblygu3k"
+  },
+  //Cereal Velocity
+  {
+    Image: "Images/Ponies/C/Cereal Velocity.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Cereal Velocity" ,
+    Gender: "Masc",
+    Species: "Unicorn",
+    Timeline: "(None)",
+    Keywords: "OC",
+    Character: "Cereal Velocity" ,
+    Power: "The Pointy End (Special): Cereal Velocity also counts as being shipped with the Pony card on the opposite side of any Pony card he is shipped with.",
+    Flavor: "\"Some may call my company 'underwater,' 'insolvent,' or even 'all made up in my head.' Well, you know what? I'm gonna prove the doubters wrong, babe. I'm gonna prove EVERYPONY wrong, and you're gonna be there laughing with me!\" - Lost in Invention",
+    Set: "Card by CouchCrusader",
+    Art: "CouchCrusader",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.edns1wyaz74y"
+  },
+  //ChatterstheButt
+  {
+    Image: "Images/Ponies/C/ChatterstheButt.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "ChatterstheButt",
+    Gender: "Femme",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "OC, #horsefamous",
+    Character: "ChatterstheButt",
+    Power: "Err'Body in the Club (Special): Starting with you, each player in turn order may draw 3 cards from the Ship and/or Pony decks. If they do, they must discard 2 cards from their hand. This power cannot be copied.",
+    Flavor: "\"Cat dick\" - chattersthebutt.tumblr.com",
+    Set: "Card by FaeDee Draws",
+    Art: "FaeDee Draws",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.c9xhmo712t4z"
+  },
+  //Cheerilee
+  {
+    Image: "Images/Ponies/C/Cheerilee.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Cheerilee",
+    Gender: "Femme",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "(None)",
+    Character: "Cheerilee",
+    Power: "Get Me Outta Here! (Special): You may discard this card from your hand to draw 2 cards from the Ship and/or Pony decks.",
+    Flavor: "Day 41. I still can't find an exit. I used to fear for my students, but now I'm afraid for my own life. The walls are closing in, and I? I wonder if I'll ever make it out of this ridiculous fantasy... - Unknown",
+    Set: "Core Deck",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/1dAIuc9s_MTRPZ6UxvV-iq6JjWHDplHhDnxig3FK39EM/edit?tab=t.c150c2pjnqyj"
+  },
 
 
 
@@ -2083,11 +2369,9 @@ nameInput.addEventListener("keypress", function(event){
                 if((cardsList[i].Type.toLowerCase() == "pony" || cardsList[i].Type.toLowerCase() == "start") && (orSearchTerms[j].toLowerCase().includes("character:") || orSearchTerms[j].toLowerCase().includes("char:"))){
                   if(orSearchTerms[j].toLowerCase().includes("character:")){
                     newSearchTerm = orSearchTerms[j].substring(orSearchTerms[j].indexOf("character:") + 10);
-                    console.log(newSearchTerm);
                   }
                   else if(orSearchTerms[j].toLowerCase().includes("char:")){
                     newSearchTerm = orSearchTerms[j].substring(orSearchTerms[j].indexOf("char:") + 5);
-                    console.log(newSearchTerm);
                   }
                   if(cardsList[i].Character.toLowerCase().includes(newSearchTerm)){
                     foundCriteria = true;
