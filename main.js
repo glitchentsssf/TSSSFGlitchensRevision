@@ -1438,9 +1438,302 @@ const cardsList = [
     Set: "Card by Shipping & Handling",
     Art: "BefishProductions",
     Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.cj2u82yg3gne"
-  }
+  },
+  //Boxy
+  {
+    Image: "Images/Ponies/B/Boxy.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Boxy" ,
+    Gender: "Femme",
+    Species: "Unicorn",
+    Timeline: "(None)",
+    Keywords: "Deer, Draft Horses, OC",
+    Character: "Boxy",
+    Power: "The Power of Vector (Replace): While this card is in your hand, you may discard a Pony card from the grid and play this card in its place.",
+    Flavor: "\"Oh, it's using the tools of the software? That's cheating!\" - PoxyBoxy Artists Redraw Old Fan Art",
+    Set: "youtube.com/@DraftHorses",
+    Art: "Timsplosion",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.ts805wcj7zxy"
+  },
+  //Braeburn
+  {
+    Image: "Images/Ponies/B/Braeburn.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Braeburn", 
+    Gender: "Masc",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "Apple",
+    Character: "Braeburn",
+    Power: "Welcome to AAAAAAPPLELOOSA! (Draw): You may draw 1 card from the Ship or Pony deck.",
+    Flavor: "His sweet tenor voice cut through the desert air like an eagle's screech, only more heartbreakingly melodic. And Big Mac knew... he was home. - Passion In Cider",
+    Set: "Core Deck",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.jilgonpedej4"
+  },
+  //Braeburn & Soarin, Empowered Couple
+  {
+    Image: "Images/Ponies/B/Braeburn & Soarin, Empowered Couple.jpg",
+    Type: "Pony",
+    MultiplePonies:"Yes / True",
+    Name: "Braeburn & Soarin, Empowered Couple",
+    Gender: "Masc",
+    Species: "Alicorn",
+    Timeline: "(None)",
+    Keywords: "Apple, Elder",
+    Character: "Braeburn, Soarin",
+    Power: "This card counts as 2 Ponies. Better Together (Special): You may draw 2 cards from the Ship and/or Pony decks, or you may swap up to 3 Pony cards on the shipping grid.",
+    Flavor: "\"Love isn't made broken by hurting each other. It's made real by choosing each other afterward instead of letting pain become the end of the story.\" - MY LITTLE PONY: QUARANTINE",
+    Set: "Tamersverse",
+    Art: "Tamers12345",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.ajtxuh3404ht"
+  },
+  //Braeburn, Still Not Over Him
+  {
+    Image: "Images/Ponies/B/Braeburn, Still Not Over Him.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Braeburn, Still Not Over Him",
+    Gender: "Masc",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "Apple",
+    Character: "Braeburn",
+    Power: "Avoiding Dating for a While (Special): Braeburn, Still Not Over Him cannot be played onto the grid. You may discard this card from your hand to draw 2 cards from the Ship and/or Pony decks.",
+    Flavor: "\"Soarin is so cool. Our breakup didn't faze him at all.\" - My Little Pony The Movie: Soarin & Braeburn",
+    Set: "Tamersverse",
+    Art: "Tamers12345",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.rzcd4l5rrxep"
+  },
+  //Braeburned
+  {
+    Image: "Images/Ponies/B/Braeburned.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Braeburned" ,
+    Gender: "Masc",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "OC, #horsefamous",
+    Character: "Braeburned" ,
+    Power: "Everypony's Gay for Braeburned (Special): If Braeburned is shipped with a [Masc] Pony card, choose another [Masc] Pony card on the shipping grid. That Pony card and one Ship card attached to it must be moved and attached to Braeburned if able.",
+    Flavor: "\"I'm not into dudes. Unless they're drawn by Braeburned. I have never felt gayer than when I see his art. So I guess the answer's yes, but only if you're Braeburned.\" - >22244088 (/mlp/)",
+    Set: "Card by FaeDee Draws",
+    Art: "FaeDee Draws",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.vyyx7m7umg3q"
+  },
+  //Brainwashed Shining Armor
+  {
+    Image: "Images/Ponies/B/Brainwashed Shining Armor.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Brainwashed Shining Armor" ,
+    Gender: "Masc",
+    Species: "Unicorn",
+    Timeline: "(None)",
+    Keywords: "(None)",
+    Character: "Shining Armor",
+    Power: "My One and Only (Special): If Chrysalis is on the grid, Brainwashed Shining Armor can only be played onto the grid shipped with her.",
+    Flavor: "\"Why am I even talking to you? You can't hear me. Just sitting there like a statue. When I first planned this whole coltnapping thing, I thought it would be exhilarating. The thrill of defeating Twilight Sparkle. Of bringing Equestria's beloved captain of the guard under my control. It was supposed to make me feel victorious, but it doesn't.\" - My Little Pony The Movie: Shattered Harmony",
+    Set: "Tamersverse",
+    Art: "Tamers12345",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.w0tdjz5bkjv2"
+  },
+  //Brawling Bruiser Applejack
+  {
+    Image: "Images/Ponies/B/Brawling Bruiser Applejack.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Brawling Bruiser Applejack",
+    Gender: "Femme",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "Apple, Mane 6, RPG",
+    Character: "Applejack",
+    Power: "Yeehaw! (Replace): While this card is in your hand, you may discard a Pony card from the grid and play this card in its place.",
+    Flavor: "The grimy dungeon castle was coming down around their ears and hooves, and Applejack crowed with excitement. She backflipped, front flipped, somersaulted, and vaulted off the falling rocks, outpacing the party by a good five feet. “Better hurry up!” she laughed. “Ah'm about t'leave y'all behind!” - The Bloody Spires of X'natka'rak",
+    Set: "Dungeon Delvers",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.h9rviunaqdol"
+  },
+  //Bretonos
+  {
+    Image: "Images/Ponies/B/Bretonos.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Bretonos",
+    Gender: "Masc",
+    Species: "Alicorn",
+    Timeline: "(None)",
+    Keywords: "OC, Villain",
+    Character: "Bretonos" ,
+    Power: "Death Awaits You (Special): Choose up, down, left, or right. Discard all Pony cards in that direction relative to Bretonos from the shipping grid. This power cannot be copied.",
+    Flavor: "Bretonos is known as the Celtic Reaper, and not many ponies that have seen him have lived to tell the tale. When your time is about to come, you have the choice of accepting your death or getting three chances to bargain for your life. If you choose to bargain and he doesn't approve of your offerings, then off you go. - Between Life and Death",
+    Set: "Card by Raribot",
+    Art: "Fur-What-Loo",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.c319nrjl8u6d"
+  },
+  //Bright-Eyes Sunny Flare
+  {
+    Image: "Images/Ponies/B/Bright-Eyes Sunny Flare.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Bright-Eyes Sunny Flare",
+    Gender: "Femme",
+    Species: "Unicorn",
+    Timeline: "(None)",
+    Keywords: "Shadowbolt",
+    Character: "Sunny Flare",
+    Power: "Sunny Side (Foreshadow): When you draw this card, you may keep it revealed until your next turn. If you do, its second power activates twice when you play it onto the grid. Flare Up (Copy): You may copy the power of any Pony card currently on the shipping grid.",
+    Flavor: "\"You spent how much money on these cards? I guess 'Thrifty' isn't one of your keywords.\" - Crystal Clique",
+    Set: "Foreshadow Prep",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.vzurgfphkzrz"
+  },
+  //Broken-Wing Rainbow Dash
+  {
+    Image: "Images/Ponies/B/Broken-Wing Rainbow Dash.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Broken-Wing Rainbow Dash",
+    Gender: "Femme",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "Mane 6",
+    Character: "Rainbow Dash",
+    Power: "Crash Landing (Replace): While this card is in your hand, you may discard a Pony card from the grid and play this card in its place.",
+    Flavor: "In that instant, her whole existence shattered along with the bones in her wing. She knew she would never fly again. - A Twist and a Shot",
+    Set: "Core Deck",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.n7sf8vm40zut"
+  },
+  //Brony Dance Party
+  {
+    Image: "Images/Ponies/B/Brony Dance Party.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Brony Dance Party",
+    Gender: "Masc",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "OC, #horsefamous",
+    Character: "Brony Dance Party",
+    Power: "Food for the Machines (Special): You may discard an [Earth Pony] or [Unicorn] from the shipping grid.",
+    Flavor: "\"So... how do you feel about... cactuses?\" - Ramblings of a Madman",
+    Set: "WEB CARD",
+    Art: "Ashley Nichols",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.vjhkpdynt7qz"
+  },
+  //Brownie Bun
+  {
+    Image: "Images/Ponies/B/Brownie Bun.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Brownie Bun ",
+    Gender: "Femme",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "Kitchen Pro, Loving Wife, OC",
+    Character: "Brownie Bun",
+    Power: "Xenophilia (Special): Brownie Bun can only be shipped with Non-Ponies and/or Lyra Heartstrings.",
+    Flavor: "Brownie stared nauseously at the wriggling fish lying atop the cutting board, her husband trying to usher her from the kitchen with assurances she need not proceed with the task at hand. \"NO,\" She cut him off. \"I am your wife, and I will provide for you!\" - Housewife  Havoc",
+    Set: "Horse Wife Pack",
+    Art: "TJPones",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.vhodjm2xzttb"
+  },
+  //Bubble Berry
+  {
+    Image: "Images/Ponies/B/Bubble Berry.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Bubble Berry", 
+    Gender: "Masc",
+    Species: "Earth Pony",
+    Timeline: "Dimension 63",
+    Keywords: "Mane 6, Pinkie Pie",
+    Character: "Pinkie Pie",
+    Power: "Party Planner Extraordinaire (Special): While this card is in your hand, you may discard any Pinkie Pie from the grid and play this card in its place. When Bubble Berry is played onto the grid, you may copy the power of any Pinkie Pie currently on the shipping grid.",
+    Flavor: "Pinkie Pie was practically spasming as her Pinkie Sense warned her of The Great Merger. When she recovered, a bubblegum colored stallion stood before her. In that moment, she knew the two of them would throw the greatest party ever. - The 63rd Dimension",
+    Set: "The 63rd Dimension",
+    Art: "Rainbowscreen",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.n29avzj1ihce"
+  },
+  //Bulk Biceps
+  {
+    Image: "Images/Ponies/B/Bulk Biceps.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Bulk Biceps" ,
+    Gender: "Masc",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "(None)",
+    Character: "Bulk Biceps",
+    Power: "YEEEEEAAAAAH! (Swap): You may swap 2 Pony cards on the shipping grid.",
+    Flavor: "She was beautiful: nice flank, strong legs, and a smile that could light up a room. When she lifted weights, he felt she was lifting his heart. Bulk Biceps told his friends he went to the gym to work out, but he really went... for her. - Power Training",
+    Set: "Core Deck",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.1x3hwakj2nig"
+  },
+  //Bulk Biceps, Deep Tissue Specialist
+  {
+    Image: "Images/Ponies/B/Bulk Biceps, Deep Tissue Specialist.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Bulk Biceps, Deep Tissue Specialist",
+    Gender: "Masc",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "Spa Pony",
+    Character: "Bulk Biceps",
+    Power: "Booster Exercise (Special): While this card is in your hand, you may discard a Pony card from the grid and play this card in its place. If this card replaced a Pony card with the Spa Pony keyword, you may search the Pony discard pile for 1 card of your choice with the Spa Pony keyword and put it into your hand. If that card is still in your hand at the end of your turn, discard it.",
+    Flavor: "\"YEEEAAAH!!! MOVE THOSE MUSCLES!!!\" - Special Treatment",
+    Set: "An Extra Special Spa Day",
+    Art: "AsajioPie01",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.7xox1oeejkap"
+  },
+  //Bunny Hare Rabbit
+  {
+    Image: "Images/Ponies/B/Bunny Hare Rabbit.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Bunny Hare Rabbit",
+    Gender: "Masc",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "OC",
+    Character: "Bunny Hare Rabbit",
+    Power: "Sonic Boom (Special): If there are 10 or more Ship and/or Pony cards on the shipping grid, you may rearrange them to your liking. This power cannot be copied.",
+    Flavor: "The chaos left in Bunny Hare Rabbit's wake was devastating, but somehow it seemed to bring ponies together. - What's Up, Doc?",
+    Set: "Gracious Givers Set 2",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.6ya3vzn286po"
+  },
+  //Butterscotch
+  {
+    Image: "",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Butterscotch" ,
+    Gender: "Masc",
+    Species: "Pegasus",
+    Timeline: "Dimension 63",
+    Keywords: "Fluttershy, Mane 6 ",
+    Character: "Fluttershy",
+    Power: "The Shy Veterinarian (Special): While this card is in your hand, you may discard any Fluttershy from the grid and play this card in its place. When Butterscotch is played onto the grid, you may copy the power of any Fluttershy currently on the shipping grid.",
+    Flavor: "Fluttershy blinked as the flash passed. When she regained her vision, Angel was running out the door. \"Angel!\" she called out, running after him. \"Where are y-\" she suddenly stopped as she caught eyes with a butter colored stallion. \"Eep!\" both of them exclaimed - The 63rd Dimension",
+    Set: "The 63rd Dimension",
+    Art: "Raininess" ,
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.3dtyj31k6yd1"
+  },
+
+
 
   //#endregion
+  
+  
+  
   //#endregion
   /*
   //Template
@@ -1454,24 +1747,7 @@ const cardsList = [
   */
   
   /*
-  {
-    Image: "Images/Ponies/Black Widow Rarity.png",
-    Type: "Pony",
-    MultiplePonies:"No / False",
-    Name: "Black Widow Rarity",
-    Gender: "Femme",
-    Species: "Unicorn",
-    Timeline: "(None)",
-    Keywords: "Mane 6",
-    MultiplePonies: "No",
-    Character: "Rarity",
-    Power: "Malicious Machinations (New Goal): You may discard 1 active Goal and draw 1 new Goal to replace it.",
-    Flavor: "She was black as silk and sharp as the nighttime wind. The stallions all had eyes for her, but she only had eyes for one thing: danger. - Casaflanka",
-    Set: "Core Deck",
-    Art: "Pixel Prism",
-    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.bbgr64v8bzns"
 
-  },
   {
     Image: "Images/Ponies/Fluffle Puff.png",
     Type: "Pony",
