@@ -1269,18 +1269,179 @@ const cardsList = [
     Art: "Pixel Prism",
     Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.5yheu5x6k11r"
   },
-
-
-
-
-
+  //Blog Princess Phoe
+  {
+    Image: "Images/Ponies/B/Blog Princess Phoe.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Blog Princess Phoe",
+    Gender: "Femme",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "Princess, OC",
+    Character: "Phoe",
+    Power: "The Ties That Bind Us (Special): Pony cards shipped with Blog Princess Phoe cannot be moved or removed from the grid by powers.",
+    Flavor: "The plucking drew closer, every note a summons from some unseen hoof. She could see it in her mind's eye, however... ice cream green, dancing across a lyre of gold. - Queens and Kings Laid Low by Strings",
+    Set: "Card by CouchCrusader",
+    Art: "CouchCrusader",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.uppa66ree9lu"
+  },
+  //Bloomberg
+  {
+    Image: "Images/Ponies/B/Bloomberg.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Bloomberg" ,
+    Gender: "Masc",
+    Species: "Non-Pony",
+    Timeline: "(None)",
+    Keywords: "Apple, Object",
+    Character: "Bloomberg",
+    Power: "Appleloosan Pit Stop (New Goal): You may discard 1 active Goal and draw 1 new Goal to replace it.",
+    Flavor: "Strong, sturdy branches spread over the dusty plains of Appleloosa. He was a watcher. A guardian. A friend. - The Giving Tree",
+    Set: "Core Deck",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.lbxg0zp677uj"
+  },
+  //Blown Wing
+  {
+    Image: "Images/Ponies/B/Blown Wing.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",  
+    Name: "Blown Wing",
+    Gender: "Femme",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "Object, OC",
+    Character: "Blown Wing",
+    Power: "Free International Shipping (Special): You may play Blown Wing onto the grid using the top card of the Ship deck rather than using a Ship card in your hand. ",
+    Flavor: "The creamy beige mare watched, helpless, entranced by the fire-red flickering flames as they burned away her dog-eared ticket home and all her poorly considered hopes behind it. The arsonist smiled widely, fanning the flames to a hoarse chorus of “No, please no...” - Blown Away ",
+    Set: "No Holds Barred: Card by Crystal Cameo",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.ppb2elqmssn6"
+  },
+  //Blueberry, Spa Mastermind
+  {
+    Image: "Images/Ponies/B/Blueberry, Spa Mastermind.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Blueberry, Spa Mastermind",
+    Gender: "Masc",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "Spa Pony",
+    Character: "Blueberry",
+    Power: "Just Relax (Special): This card can only be played onto the grid by removing the Start card from the game and playing this card in its place. Once during each of their turns, a player may choose a Pony card on the grid and have it gain the Spa Pony keyword until the end of their turn. Once during each of their turns, a player may discard 1 active Goal and draw 1 new Goal to replace it. If they do, each player in turn order other than them may draw 2 cards from the Ship and/or Pony deck. This card is treated as the Start card and cannot be moved or removed from the grid. This power cannot be copied.",
+    Flavor: "\"You don't seem to understand the circumstances you now find yourself in.\" - Special Treatment",
+    Set: "An Extra Special Spa Day",
+    Art: "AsajioPie01",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.nrs6chgzdkr2"
+  },
+  //Bo
+  {
+    Image: "Images/Ponies/B/Bo.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Bo" ,
+    Gender: "Masc",
+    Species: "Unicorn",
+    Timeline: "(None)",
+    Keywords: "Draft Horses, OC",
+    Character: "Bo",
+    Power: "Big (Replace): While this card is in your hand, you may discard a Pony card from the grid and play this card in its place.",
+    Flavor: "\"A billion abs, and they start at his chin.\" - Shirecorn Artists Draw Crazy Moments from My Little Pony G5",
+    Set: "youtube.com/@DraftHorses",
+    Art: "Shirecorn",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.jp2qx3j0egc2"
+  },
+   //Bon Bon
+  {
+    Image: "Images/Ponies/B/Bon Bon.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Bon Bon" ,
+    Gender: "Femme",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "(None)",
+    Character: "Bon Bon",
+    Power: "Sweet Tooth (Draw): You may draw 1 card from the Ship or Pony deck.",
+    Flavor: "Bon Bon slammed the bag of sugar down on the table. “Bats fly, monkeys climb, and filly, I make candy.” - Iron Confectioner",
+    Set: "Core Deck",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.iha27z9f1gx4"
+  },
+  //Boneless Pizza Bat
+  {
+    Image: "Images/Ponies/B/Boneless Pizza Bat.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Boneless Pizza Bat ",
+    Gender: "Masc",
+    Species: "Pegasus",
+    Timeline: "(None)",
+    Keywords: "Batpony, OC, Stuffed Crust",
+    Character: "Stuffed Crust",
+    Power: "Pineapple Pizza (New Goal): You may discard 1 active Goal and draw 1 new Goal to replace it.",
+    Flavor: "As 2 am drew near, the bat lifts the ringing phone, his happy, peppy greeting quickly cut off by the drunken slurs of the pony over the phone.” - In 2 Deep",
+    Set: "Koonzy's BronyCon2017 Exclusive",
+    Art: "Koonzy",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.g2srl0nhg050"
+  },
+  //Boo
+  {
+    Image: "Images/Ponies/B/Boo.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Boo" ,
+    Gender: "Femme",
+    Species: "Earth Pony",
+    Timeline: "(None)",
+    Keywords: "Elite Beat Agent, OC",
+    Character: "Boo",
+    Power: "Lightning Reflexes (Special): You may swap any number of Pony cards on the shipping grid, but you only have 3 seconds to do it. This power cannot be copied.",
+    Flavor: "\"I'm no good at thinking of things on the spot.\" - Love Is Not a Quick Time Event",
+    Set: "TJPones Blog",
+    Art: "TJPones",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.85rlvbpq0ykr"
+  },
+  //Bookworm
+  {
+    Image: "Images/Ponies/B/Bookworm.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Bookworm",
+    Gender: "Femme",
+    Species: "Alicorn",
+    Timeline: "(None)",
+    Keywords: "Mane 6, Twilight Sparkle",
+    Character: "Bookworm",
+    Power: "First Mate (Search): You may search the Ship or Pony discard pile for 1 card of your choice and put it into your hand. If that card is still in your hand at the end of your turn, discard it.",
+    Flavor: "No book in the library could prepare Twilight for this new chapter in her life. There were too many unknowns on the open seas of Equestria, but she felt secure in her decision, knowing that her best friend would be at her side. - The Pirate and Her Princess, Chapter 1",
+    Set: "Card by T.J. Carson",
+    Art: "Pixel Prism",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.2ku8pemfjozj"
+  },
+  //Boulder
+  {
+    Image: "Images/Ponies/B/Boulder.jpg",
+    Type: "Pony",
+    MultiplePonies:"No / False",
+    Name: "Boulder", 
+    Gender: "Masc",
+    Species: "Non-Pony",
+    Timeline: "(None)",
+    Keywords: "Object",
+    Character: "Boulder",
+    Power: "Get Us Out of Here, Boy (New Goal): You may discard 1 active Goal and draw 1 new Goal to replace it.",
+    Flavor: "Boulder is a rock A rock like no other Because he is mine - Maud Pie's Guide to Lithology Vol. 1",
+    Set: "Card by Shipping & Handling",
+    Art: "BefishProductions",
+    Link:"https://docs.google.com/document/d/12TeI7bx8lL3SY0VRt4xqs1wYg_Vive6fAnT7JgPE7-c/edit?tab=t.cj2u82yg3gne"
+  }
 
   //#endregion
-  
   //#endregion
-
-
-
   /*
   //Template
   {
